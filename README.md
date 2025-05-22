@@ -4,7 +4,7 @@
 I'm a passionate **Frontend Developer** with 3+ years of experience in building high-performance and scalable **web and mobile applications**.  
 My journey started from graphic design and evolved into tech, allowing me to work closely with designers and product teams to build **engaging user experiences** and **robust design systems**.
 
-##My Tech Stack
+## 💻 My Tech Stack
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
