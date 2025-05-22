@@ -42,20 +42,6 @@ Currently, I work on:
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-`React` `React Native` `Next.js` `Typescript` `JavaScript`  
-
-**Styling & UI**  
-`TailwindCSS` `SCSS` `CSS Modules` `Storybook`  
-
-**Testing & Dev Tools**  
-`Vitest` `React Testing Library` `GraphQL (Apollo)` `REST (React Query)`  
-`NX` `Vite` `Git` `GitHub` `Firebase` `nginx`  
-
----
-
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrea-selmi/)  
