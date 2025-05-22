@@ -30,7 +30,7 @@ Currently, I work on:
 - **Monorepos** with Nx
 - **Design Systems** with full test coverage & Storybook
 - **Microfrontend architectures**
-- CI/CD pipelines with code quality automation
+- **CI/CD pipelines** with code quality automation
 
 💡 Always learning, experimenting, and improving — I love exploring new technologies and applying them in both personal and professional projects.
 
